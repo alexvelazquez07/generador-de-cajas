@@ -10,6 +10,7 @@
 }
 
 
+
 .forms {
     font-size: 1.2rem;
     justify-content: center;
@@ -24,5 +25,5 @@
     margin-bottom: 20px;
 }
 .btn:hover {
-    background-color: white;
+    background-color: rgb(153, 155, 236);
 }
